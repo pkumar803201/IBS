@@ -1,0 +1,10 @@
+D:\InternetBankingSystem\IBS_UILayer\IBS_Exception_Layer\bin\Debug\netcoreapp3.1\IBS_Exception_Layer.deps.json
+D:\InternetBankingSystem\IBS_UILayer\IBS_Exception_Layer\bin\Debug\netcoreapp3.1\IBS_Exception_Layer.dll
+D:\InternetBankingSystem\IBS_UILayer\IBS_Exception_Layer\bin\Debug\netcoreapp3.1\IBS_Exception_Layer.pdb
+D:\InternetBankingSystem\IBS_UILayer\IBS_Exception_Layer\obj\Debug\netcoreapp3.1\IBS_Exception_Layer.csproj.AssemblyReference.cache
+D:\InternetBankingSystem\IBS_UILayer\IBS_Exception_Layer\obj\Debug\netcoreapp3.1\IBS_Exception_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\InternetBankingSystem\IBS_UILayer\IBS_Exception_Layer\obj\Debug\netcoreapp3.1\IBS_Exception_Layer.AssemblyInfoInputs.cache
+D:\InternetBankingSystem\IBS_UILayer\IBS_Exception_Layer\obj\Debug\netcoreapp3.1\IBS_Exception_Layer.AssemblyInfo.cs
+D:\InternetBankingSystem\IBS_UILayer\IBS_Exception_Layer\obj\Debug\netcoreapp3.1\IBS_Exception_Layer.csproj.CoreCompileInputs.cache
+D:\InternetBankingSystem\IBS_UILayer\IBS_Exception_Layer\obj\Debug\netcoreapp3.1\IBS_Exception_Layer.dll
+D:\InternetBankingSystem\IBS_UILayer\IBS_Exception_Layer\obj\Debug\netcoreapp3.1\IBS_Exception_Layer.pdb

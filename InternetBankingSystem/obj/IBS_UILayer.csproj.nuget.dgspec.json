@@ -1,0 +1,273 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\InternetBankingSystem\\IBS_UILayer.csproj": {}
+  },
+  "projects": {
+    "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\EntityLayer\\EntityLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\EntityLayer\\EntityLayer.csproj",
+        "projectName": "EntityLayer",
+        "projectPath": "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\EntityLayer\\EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+        "outputPath": "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\EntityLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "ConsoleTables": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\IBS_BALayer\\IBS_BALayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\IBS_BALayer\\IBS_BALayer.csproj",
+        "projectName": "IBS_BALayer",
+        "projectPath": "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\IBS_BALayer\\IBS_BALayer.csproj",
+        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+        "outputPath": "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\IBS_BALayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\EntityLayer\\EntityLayer.csproj"
+              },
+              "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\IBS_DALayer\\IBS_DALayer.csproj": {
+                "projectPath": "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\IBS_DALayer\\IBS_DALayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "ConsoleTables": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\IBS_DALayer\\IBS_DALayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\IBS_DALayer\\IBS_DALayer.csproj",
+        "projectName": "IBS_DALayer",
+        "projectPath": "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\IBS_DALayer\\IBS_DALayer.csproj",
+        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+        "outputPath": "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\IBS_DALayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\EntityLayer\\EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "ConsoleTables": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\InternetBankingSystem\\IBS_UILayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\InternetBankingSystem\\IBS_UILayer.csproj",
+        "projectName": "IBS_UILayer",
+        "projectPath": "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\InternetBankingSystem\\IBS_UILayer.csproj",
+        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+        "outputPath": "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\InternetBankingSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\EntityLayer\\EntityLayer.csproj"
+              },
+              "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\IBS_BALayer\\IBS_BALayer.csproj": {
+                "projectPath": "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\IBS_BALayer\\IBS_BALayer.csproj"
+              },
+              "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\IBS_DALayer\\IBS_DALayer.csproj": {
+                "projectPath": "D:\\sunny\\InternetBankingSystem\\IBS_UILayer\\IBS_DALayer\\IBS_DALayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "ConsoleTables": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
